@@ -54,7 +54,7 @@ CONFIG_SCHEMA = cv.All(
                 {
                     cv.GenerateID(): cv.declare_id(HuaweiR4850Number),
                     cv.Optional(CONF_MIN_VALUE, default=0): cv.float_,
-                    cv.Optional(CONF_MAX_VALUE, default=19): cv.float_,
+                    cv.Optional(CONF_MAX_VALUE, default=40): cv.float_,
                     cv.Optional(CONF_STEP, default=0.1): cv.float_,
                     cv.Optional(CONF_ICON, default=ICON_CURRENT_AC): cv.icon,
                     cv.Optional(
