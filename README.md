@@ -13,7 +13,7 @@ In theory it should work also with the mcp2515 platform, but this is currently n
 
 ### How to use
 Please check the provided example esphome configuration:
-[huawei_r4850.yaml](https://github.com/jm30/esphome-huawei-r4850/blob/main/huawei_r4850.yaml)
+[huawei_r4850.yaml](https://github.com/jn30/esphome-huawei-r4850/blob/main/huawei_r4850.yaml)
 
 ## Changes on JN30-Fork
 limit max. current 40A due to setup
