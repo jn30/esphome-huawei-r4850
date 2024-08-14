@@ -1,4 +1,4 @@
-# esphome-huawei-r4850
+# esphome-huawei-r4850(JN30-Fork)
 
 [![License][license-shield]](LICENSE)
 
