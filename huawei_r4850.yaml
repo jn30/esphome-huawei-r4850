@@ -73,6 +73,5 @@ button:
     set_offline_values:
       name: Set offline values
       
-switch:
   - platform: restart
     name: "Huawei Control Restart"          
