@@ -17,6 +17,6 @@ Please check the provided example esphome configuration:
 [huawei_r4850.yaml](https://github.com/jn30/esphome-huawei-r4850/blob/main/huawei_r4850.yaml)
 
 ## Changes on JN30-Fork
-limit max. current 38A (~<2.2kW on 51.2V Bat) due to setup
+limit max. current 40A (~<2.2kW on 51.2V Bat) due to setup
 
 [license-shield]: https://img.shields.io/github/license/mb-software/homeassistant-powerbrain.svg?style=for-the-badge
