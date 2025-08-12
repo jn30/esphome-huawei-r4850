@@ -19,5 +19,6 @@ Please check the provided example esphome configuration:
 
 ## Changes on JN30-Fork
 limit max. current 40A (~<2.2kW on 51.2V Bat) due to setup
+
 limit max. voltage 57V
 
