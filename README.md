@@ -2,7 +2,7 @@
 
 [![License][license-shield]](LICENSE)
 
-
+[license-shield]: https://img.shields.io/github/license/mb-software/homeassistant-powerbrain.svg?style=for-the-badge
 <a href="https://www.buymeacoffee.com/mbsoftware"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mbsoftware&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ^original guy^
@@ -19,5 +19,5 @@ Please check the provided example esphome configuration:
 
 ## Changes on JN30-Fork
 limit max. current 40A (~<2.2kW on 51.2V Bat) due to setup
+limit max. voltage 57V
 
-[license-shield]: https://img.shields.io/github/license/mb-software/homeassistant-powerbrain.svg?style=for-the-badge
